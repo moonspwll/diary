@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/diary_server
 
 # testing
 /coverage
